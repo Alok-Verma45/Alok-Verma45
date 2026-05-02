@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Alok Verma 👋
 
-<!--
-**Alok-Verma45/Alok-Verma45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Backend Developer | Spring Boot Developer  
 
-Here are some ideas to get you started:
+💡 I build scalable backend systems and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- Java, Spring Boot
+- REST APIs, JWT Auth
+- PostgreSQL, MySQL
+- React (Basics)
+
+---
+
+## 🚀 Projects
+🔹 Agro App – Full-stack agri business platform  
+🔹 Job Portal System  
+🔹 Chat Application  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Alok-Verma45&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect
+- Email: alokkumar09921@gmail.com
