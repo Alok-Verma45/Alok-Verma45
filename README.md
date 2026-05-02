@@ -21,8 +21,13 @@
 
 ---
 
-## 📈 GitHub Stats
-[![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alok-Verma45&show_icons=true&theme=tokyonight)](https://github.com/Alok-Verma45)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alok-Verma45&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Alok-Verma45&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Verma45&layout=compact&theme=tokyonight)
 
 ---
 
