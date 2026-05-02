@@ -27,7 +27,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Alok-Verma45&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Verma45&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alok-Verma45&layout=compact&theme=tokyonight)
 
 ---
 
